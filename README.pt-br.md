@@ -26,7 +26,7 @@ Projetos de ponta a ponta com integração de APIs no backend, bancos de dados e
 
 | Projeto | Tipo | Descrição | Palavras-chave | Status | Link |
 | :--- | :---: | :--- | :--- | :---: | :---: |
-| **Autenticação & Sistema RBAC** | Aplicação Web | Aplicação full-stack para autenticação de usuários e controle de acesso baseado em funções usando JWT. | `Java` `Spring Boot` `PostgreSQL` `Angular` | 🟠 Em Desenvolvimento | [Ver](./) |
+| **Autenticação & Sistema RBAC** | Aplicação Web | Aplicação full-stack para autenticação de usuários e controle de acesso baseado em funções usando JWT. | `Java` `Spring Boot` `PostgreSQL` `Angular` | 🟢 Concluído | [Ver](https://github.com/CaioHRandoli/authentication-rbac-system) |
 
 ---
 
