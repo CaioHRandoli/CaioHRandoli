@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# PROJECT HUB
+# Welcome to my hub project
 
 *Central repository for all my AI, Software Development projects, and more.*
 
