@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# CENTRO DE PROJETOS
+# Bem-vindo ao meu repositório central
 
 *Repositório central para todos os meus projetos de IA, Desenvolvimento de Software e mais.*
 
