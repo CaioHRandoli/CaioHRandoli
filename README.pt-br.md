@@ -42,6 +42,11 @@ Projetos de ponta a ponta com integração de APIs no backend, bancos de dados e
 | **Preditor da Premier League com XGBoost** | Classificação | Modelo de classificação multiclasse para prever resultados de jogos (Vitória do Mandante, Empate, Vitória do Visitante) usando XGBoost. | `Python` `XGBoost` `Pandas` `Numpy` `Scikit-Learn` | 🟢 Concluído | [Ver](https://github.com/CaioHRandoli/AI_ML_Supervised-Learning_XGBoost) |
 | **Preditor de Preços de Casas da Califórnia** | Regressão | Modelo de regressão supervisionada aplicando Regressão Linear para estimar valores de imóveis usando dados espaciais e demográficos. | `Python` `Linear Regression` `Pandas` `Numpy` `Scikit-Learn` | 🟢 Concluído | [Ver](https://github.com/CaioHRandoli/AI_ML_Supervised-Learning_Linear-Regression) |
 
+#### 🧩 Aprendizado Não Supervisionado
+
+| Projeto | Tipo | Descrição | Palavras-chave | Status | Link |
+| :--- | :---: | :--- | :--- | :---: | :---: |
+| **Segmentação de Clientes de Cartão de Crédito** | Clusterização | Segmentação de clientes utilizando **K-Means** (aprendizado não supervisionado) em dados de uso de cartão de crédito para identificar compradores VIP, Usuários Ocasionais e Financiadores de Saque. | `Python` `K-Means` `Scikit-Learn` `Pandas` `Seaborn` | 🟡 Em Progresso | [Ver]() |
 
 ### ♟️ IA Clássica / Simbólica
 | Projeto | Tipo | Descrição | Palavras-chave | Status | Link |
