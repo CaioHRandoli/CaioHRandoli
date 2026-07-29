@@ -36,16 +36,20 @@ End-to-end projects featuring backend API integration, databases, and user inter
 #### 🏷️ Supervised Learning
 | Project | Type | Description | Keywords | Status | Link |
 | :--- | :---: | :--- | :--- | :---: | :---: |
-| **MLP Multi-Class Classifier** | Classification | Multi-class neural network mapping 4 input features into 4 target categories. | `Neural Networks` `Python` `Matplotlib` `Pandas` `Numpy` | 🟢 Done | [View](https://github.com/CaioHRandoli/AI_ML_Supervised-Learning_Artificial-Neural-Network) |
-| **Gold Price Predictor** | Regression | Supervised regression model leveraging Random Forest Regressor to forecast gold market values. | `Python` `Random Forest` `Pandas` `Numpy` `Scikit-Learn` | 🟢 Done | [View](https://github.com/CaioHRandoli/AI_ML_Supervised-Learning_Random-Forest) |
+| **MLP Multi-Class Classifier** | Classification | Multi-class **neural network** mapping 4 input features into 4 target categories. | `Neural Networks` `Python` `Matplotlib` `Pandas` `Numpy` | 🟢 Done | [View](https://github.com/CaioHRandoli/AI_ML_Supervised-Learning_Artificial-Neural-Network) |
+| **Gold Price Predictor** | Regression | Supervised regression model leveraging **Random Forest** Regressor to forecast gold market values. | `Python` `Random Forest` `Pandas` `Numpy` `Scikit-Learn` | 🟢 Done | [View](https://github.com/CaioHRandoli/AI_ML_Supervised-Learning_Random-Forest) |
 | **XGBoost Premier League Predictor** | Classification | Multi-class sports outcome predictor (Home Win, Draw, Away Win) using XGBoost classifier. | `Python` `XGBoost` `Pandas` `Numpy` `Scikit-Learn` | 🟢 Done | [View](https://github.com/CaioHRandoli/AI_ML_Supervised-Learning_XGBoost) |
-| **California House Price Predictor** | Regression | Supervised regression model implementing Linear Regression to estimate house values using spatial and demographic data. | `Python` `Linear Regression` `Pandas` `Numpy` `Scikit-Learn` | 🟢 Done | [View](https://github.com/CaioHRandoli/AI_ML_Supervised-Learning_Linear-Regression) |
+| **California House Price Predictor** | Regression | Supervised regression model implementing **Linear Regression** to estimate house values using spatial and demographic data. | `Python` `Linear Regression` `Pandas` `Numpy` `Scikit-Learn` | 🟢 Done | [View](https://github.com/CaioHRandoli/AI_ML_Supervised-Learning_Linear-Regression) |
 
+#### 🧩 Unsupervised Learning
+| Project | Type | Description | Keywords | Status | Link |
+| :--- | :---: | :--- | :--- | :---: | :---: |
+| **Credit Card Customer Segmentation** | Clustering | Customer segmentation using **K-Means** unsupervised learning on credit card usage data to identify high-value buyers, occasional users, and cash-advance revolvers | `K-Means` `Python` `Matplotlib` `Pandas` `Numpy` `Scikit-Learn` `Seaborn` | 🟡 In Progress| [View]() |
 
 ### ♟️ Classic / Symbolic AI
 | Project | Type | Description | Keywords | Status | Link |
 | :--- | :---: | :--- | :--- | :---: | :---: |
-| **Tic-Tac-Toe** | Game AI | Human vs. AI game featuring Minimax decision tree search with Alpha-Beta Pruning optimization. | `C++` `Minimax` `Alpha-Beta` | 🟢 Done | [View](https://github.com/CaioHRandoli/AI_Tic-Tac-Toe) |
+| **Tic-Tac-Toe** | Game AI | Human vs. AI game featuring **Minimax** decision tree search with **Alpha-Beta Pruning** optimization. | `C++` `Minimax` `Alpha-Beta` | 🟢 Done | [View](https://github.com/CaioHRandoli/AI_Tic-Tac-Toe) |
 | **COVID-19 Cell Segmentation** | Image Processing | Digital image processing pipeline using OpenCV to isolate and detect COVID-19 cell structures in microscopic images. | `Python` `OpenCV` `Computer Vision` `Image Segmentation` | 🟢 Done | [View](https://github.com/CaioHRandoli/Processamento-Imagem_Covid) |
 
 ---
