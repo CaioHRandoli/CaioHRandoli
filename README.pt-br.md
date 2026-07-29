@@ -46,7 +46,7 @@ Projetos de ponta a ponta com integração de APIs no backend, bancos de dados e
 
 | Projeto | Tipo | Descrição | Palavras-chave | Status | Link |
 | :--- | :---: | :--- | :--- | :---: | :---: |
-| **Segmentação de Clientes de Cartão de Crédito** | Clusterização | Segmentação de clientes utilizando **K-Means** (aprendizado não supervisionado) em dados de uso de cartão de crédito para identificar compradores VIP, Usuários Ocasionais e Financiadores de Saque. | `Python` `K-Means` `Scikit-Learn` `Pandas` `Seaborn` | 🟡 Em Progresso | [Ver]() |
+| **Segmentação de Clientes de Cartão de Crédito** | Clusterização | Segmentação de clientes utilizando **K-Means** (aprendizado não supervisionado) em dados de uso de cartão de crédito para identificar compradores VIP, Usuários Ocasionais e Financiadores de Saque. | `Python` `K-Means` `Scikit-Learn` `Matplotlib` `Pandas` `Numpy` `Seaborn` | 🟢 Concluído | [Ver](https://github.com/CaioHRandoli/credit-card-customer-segmentation) |
 
 ### ♟️ IA Clássica / Simbólica
 | Projeto | Tipo | Descrição | Palavras-chave | Status | Link |
