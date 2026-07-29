@@ -44,7 +44,7 @@ End-to-end projects featuring backend API integration, databases, and user inter
 #### 🧩 Unsupervised Learning
 | Project | Type | Description | Keywords | Status | Link |
 | :--- | :---: | :--- | :--- | :---: | :---: |
-| **Credit Card Customer Segmentation** | Clustering | Customer segmentation using **K-Means** unsupervised learning on credit card usage data to identify high-value buyers, occasional users, and cash-advance revolvers | `K-Means` `Python` `Matplotlib` `Pandas` `Numpy` `Scikit-Learn` `Seaborn` | 🟡 In Progress| [View]() |
+| **Credit Card Customer Segmentation** | Clustering | Customer segmentation using **K-Means** unsupervised learning on credit card usage data to identify high-value buyers, occasional users, and cash-advance revolvers | `K-Means` `Python` `Matplotlib` `Pandas` `Numpy` `Scikit-Learn` `Seaborn` | 🟢 Done | [View](https://github.com/CaioHRandoli/credit-card-customer-segmentation) |
 
 ### ♟️ Classic / Symbolic AI
 | Project | Type | Description | Keywords | Status | Link |
