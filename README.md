@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# Welcome to my hub project
+# Welcome to my central repository
 
 *Central repository for all my AI, Software Development projects, and more.*
 
