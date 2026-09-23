@@ -54,6 +54,16 @@ End-to-end projects featuring backend API integration, databases, and user inter
 
 ---
 
+## 📊 Data Analysis
+
+### 📦 Logistics Indicators
+
+| Project | Type | Description | Keywords | Status | Link |
+| :--- | :---: | :--- | :--- | :---: | :---: |
+| **Logistics Indicator Analysis** | Inventory Control | Data and logistics metrics analysis for a supermarket chain to manage inventory and store stockouts. | `Power BI` `Power Query` `Dashboard` `ETL` | 🟢 Done | [View](https://github.com/CaioHRandoli/logistics-data-analysis) |
+
+---
+
 ## 📦 Other Projects
 
 ### 🎮 Computer Graphics & Simulation
