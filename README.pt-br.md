@@ -56,6 +56,14 @@ Projetos de ponta a ponta com integração de APIs no backend, bancos de dados e
 
 ---
 
+## 📊 Análise de Dados
+
+### 📦 Indicadores Logísticos
+
+| Projeto | Tipo | Descrição | Palavras-chave | Status | Link |
+| :--- | :---: | :--- | :--- | :---: | :---: |
+| **Análise de Indicadores Logísticos** | Controle de Estoque | Analise de dados e indicadores logísticos de uma rede de supermercados para controle de estoque e rupturas nas lojas. | `Power BI` `Power Query` `Dashboard` `ETL` | 🟢 Concluído | [Ver](https://github.com/CaioHRandoli/logistics-data-analysis) |
+
 ## 📦 Outros Projetos
 
 ### 🎮 Computação Gráfica & Simulação
