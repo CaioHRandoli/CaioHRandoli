@@ -38,7 +38,7 @@ End-to-end projects featuring backend API integration, databases, and user inter
 
 | Project | Type | Description | Keywords | Status | Link |
 | :--- | :---: | :--- | :--- | :---: | :---: |
-| **MLP Multi-Class Classifier** | Classification | Multi-class **neural network** mapping 4 input features into 4 target categories. | `Neural Networks` `Python` `Matplotlib` `Pandas` `Numpy` | 🟢 Done | [View](https://github.com/CaioHRandoli/AI_ML_Supervised-Learning_Artificial-Neural-Network) |
+| **Artificial Neural Network from Scratch** | Classification | Artificial Neural Network from scratch, without PyTorch or TensorFlow, mapping 4 input features into 4 target categories. | `Neural Networks` `Multilayer Perceptron` `Python` `Matplotlib` `Pandas` `Numpy` | 🟢 Done | [View](https://github.com/CaioHRandoli/mlp-from-scratch) |
 | **Gold Price Predictor** | Regression | Supervised regression model leveraging **Random Forest** Regressor to forecast gold market values. | `Python` `Random Forest` `Pandas` `Numpy` `Scikit-Learn` | 🟢 Done | [View](https://github.com/CaioHRandoli/AI_ML_Supervised-Learning_Random-Forest) |
 | **Customer Churn Prediction** | Classification | Machine Learning model to predict customer churn using XGBoost classifier. | `Python` `XGBoost` `Pandas` `Numpy` `Scikit-Learn` `Streamlit` | 🟢 Done | [View](https://github.com/CaioHRandoli/telco-customer-churn) |
 | **California House Price Predictor** | Regression | Supervised regression model implementing **Linear Regression** to estimate house values using spatial and demographic data. | `Python` `Linear Regression` `Pandas` `Numpy` `Scikit-Learn` | 🟢 Done | [View](https://github.com/CaioHRandoli/AI_ML_Supervised-Learning_Linear-Regression) |
